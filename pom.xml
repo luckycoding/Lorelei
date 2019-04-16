@@ -23,7 +23,6 @@
     </build>
 
 
-    <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>io.rest-assured</groupId>
@@ -53,7 +52,7 @@
                 <version>2.9.8</version>
             </dependency>
         </dependencies>
-    </dependencyManagement>
+
 
 
 </project>
